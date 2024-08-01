@@ -1,1 +1,1 @@
-# Numpy Concepts and Projects
+# Numpy Concepts 
